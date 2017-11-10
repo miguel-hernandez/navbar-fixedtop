@@ -6,9 +6,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> Escuela Poblana </title>
+  <title> Fixed top </title>
 
-  <link rel="shortcut icon" href="<?php echo base_url('assets/img/favicon.ico'); ?>">
+  <link rel="shortcut icon" href="<?php echo base_url('assets/img/favicon.png'); ?>">
 
   <link href="<?php echo base_url('assets/bootstrap337/css/bootstrap.min.css'); ?>" rel="stylesheet" media="screen">
   <link href="<?php echo base_url('assets/sweetalert2/sweetalert2.min.css'); ?>" rel="stylesheet" media="screen">
